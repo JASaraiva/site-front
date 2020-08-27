@@ -6,10 +6,10 @@ import Footer from "./components/Footer"
 
 
 //----------- CSS -------------------
-import "./css/business-frontpage.css"
-import "./css/gallery.css"
-import "./css/social.css"
-import "./vendor/bootstrap/css/bootstrap.min.css"
+import "./assets/css/business-frontpage.css"
+import "./assets/css/gallery.css"
+import "./assets/css/social.css"
+import "./assets/vendor/bootstrap/css/bootstrap.min.css"
 
 export default props =>
     <>
