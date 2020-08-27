@@ -4,7 +4,6 @@ import Header from "./components/Header"
 import Content from "./components/Content"
 import Footer from "./components/Footer"
 
-
 //----------- CSS -------------------
 import "./assets/css/business-frontpage.css"
 import "./assets/css/gallery.css"
