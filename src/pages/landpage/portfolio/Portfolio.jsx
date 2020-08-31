@@ -14,7 +14,6 @@ class Portfolio extends Component{
 
     render(){
         const {projects} = this.state 
-        console.log(projects)
         return (<div className="row">
             <h2 className="text-center">Portfólio</h2>
 
